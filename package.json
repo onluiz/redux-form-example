@@ -1,0 +1,25 @@
+{
+  "name": "redux-form-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onluiz/redux-form-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onluiz/redux-form-example/issues"
+  },
+  "homepage": "https://github.com/onluiz/redux-form-example#README",
+  "author": "https://github.com/onluiz"
+}
